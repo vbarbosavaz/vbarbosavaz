@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Vincent (he/him) 👋
+
+I'm a PhD Student in Machine Learning and Optimisation at the University of Melbourne.
+
+For more information about me and my research, you can visit [vincentbarbosavaz.com](https://vincentbarbosavaz.com/)
 
 <!--
 **vbarbosavaz/vbarbosavaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
